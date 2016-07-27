@@ -1,0 +1,14 @@
+FirstProject is an introductory to java programming language. It contains programs for
+beginners. This project contains 3 packages namely day1.examples, day1.exercises and 
+day2.class and object.
+Here are some of the program that you will find in this project:
+      1. Example of while loop
+      2. Example of do while loop
+      3. Example of if
+      4. Example of switch case
+      5. Example of two dimensional array
+      6. Example of and or
+      7. Example of for
+      8. Example of calculating tax
+      9. Example of how object and class work in java (day2.classandobject)
+      10 Example on string concatenation
